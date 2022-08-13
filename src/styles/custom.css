@@ -1,0 +1,15 @@
+.react-toggle .react-toggle-track {
+  background-color: #000000 !important;
+}
+
+.react-toggle .react-toggle-track .react-toggle-track-x {
+  width: 16px;
+  height: 16px;
+}
+.react-toggle .react-toggle-thumb {
+  border-color: none !important;
+}
+.react-toggle--focus .react-toggle-thumb {
+  border-color: #ffa7c4 !important;
+  box-shadow: 0 0 2px 3px #ffa7c4 !important;
+}
